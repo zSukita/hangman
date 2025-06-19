@@ -27,7 +27,7 @@ public class HangmanChar {
         return isVisible;
     }
 
-    public boolean isInVisible() {
+    public boolean isInvisible() {
         return !isVisible;
     }
 
